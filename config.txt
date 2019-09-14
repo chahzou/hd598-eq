@@ -1,0 +1,5 @@
+Preamp: -16 dB
+# Preamp is in this config to prevent extreme volume when switching off individual EQ
+# Some additional audio drivers can cause bugs with EqualizerAPO
+
+Include: HD598.txt
