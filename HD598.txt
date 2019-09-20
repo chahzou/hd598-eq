@@ -2,13 +2,12 @@
 # Personal interpretation of mono pink noise
 # Amp: FiiO2 24bit/96000Hz
 # Volumes: [Windows 10: 100, EQ-APO: -16dB, FiiO2-Low: 1-6]
-# Based on mono pink noise
 
 Preamp: -10 dB
 
 #Filter: ON PK Fc 10 Hz Gain     0 dB Q 1.4
-Filter: ON PK Fc 15 Hz Gain    16 dB Q 0.9
-Filter: ON PK Fc 32 Hz Gain     4 dB Q 0.9
+Filter: ON PK Fc 15 Hz Gain    10 dB Q 0.9
+Filter: ON PK Fc 32 Hz Gain     6 dB Q 0.9
 Filter: ON PK Fc 59 Hz Gain    -14 dB Q 1
 Filter: ON PK Fc 97 Hz Gain     2 dB Q 1.4
 Filter: ON PK Fc 145 Hz Gain   -9 dB Q 1.4
