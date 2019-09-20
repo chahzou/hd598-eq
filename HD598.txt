@@ -1,7 +1,10 @@
 # Headphones: Sennheiser HD 598SE
+# Personal interpretation of mono pink noise
 # Amp: FiiO2 24bit/96000Hz
 # Volumes: [Windows 10: 100, EQ-APO: -16dB, FiiO2-Low: 1-6]
 # Based on mono pink noise
+
+Preamp: -10 dB
 
 #Filter: ON PK Fc 10 Hz Gain     0 dB Q 1.4
 Filter: ON PK Fc 15 Hz Gain    16 dB Q 0.9
