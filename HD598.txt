@@ -4,7 +4,7 @@
 # Amp: FiiO2 24bit/96000Hz
 # Volumes: [Windows 10: 100, FiiO2: 2.5 (Low)]
 
-Preamp: -11.5 dB
+Preamp: -10.5 dB
 
 #Filter: ON PK Fc 10 Hz Gain     0 dB Q 1.4
 Filter: ON PK Fc 15 Hz Gain     8 dB Q 0.9
